@@ -17,6 +17,7 @@ utilisé pour la préparation de fichiers **Gerber** et **Excellon** dans la con
 - `FlatCAM_Windows64.zip` → le logiciel prêt à l’emploi  
 - `/ressources` → liens et documents utiles  
 
+Lien de téléchargement :https://github.com/Jeremie777777/Flatcam-PCB/releases/tag/FlatCAM_beta_8.991_x64_installer
 ---
 
 ## 🔧 Installation rapide
